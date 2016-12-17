@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/moot/Downloads/MainActivity/app/build/intermediates/res/merged/debug/layout/row.xml",
+        "source": "/home/moot/Downloads/MainActivity/app/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/home/moot/Downloads/MainActivity/app/build/intermediates/res/merged/debug/layout/slidetoggle.xml",
+        "source": "/home/moot/Downloads/MainActivity/app/src/main/res/layout/slidetoggle.xml"
+    },
+    {
+        "merged": "/home/moot/Downloads/MainActivity/app/build/intermediates/res/merged/debug/layout/listfragment.xml",
+        "source": "/home/moot/Downloads/MainActivity/app/src/main/res/layout/listfragment.xml"
+    },
+    {
+        "merged": "/home/moot/Downloads/MainActivity/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/moot/Downloads/MainActivity/app/src/main/res/layout/activity_main.xml"
+    }
+]
