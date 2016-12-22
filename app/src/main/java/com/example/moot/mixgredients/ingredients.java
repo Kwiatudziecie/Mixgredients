@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 
@@ -32,13 +33,18 @@ public class ingredients extends Fragment {
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.fragment_ingredients, container, false);
         ((AppCompatActivity)getActivity()).getSupportActionBar().setTitle("Mixgredients");
-        listView = (ListView) rootView.findViewById(R.id.listView);
+        //listView = (ListView) rootView.findViewById(R.id.listView);
         String[] values = new String[] { "Cheese",
                 "Maccaroni",
                 "Ketchup"};
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(getActivity().getBaseContext(), android.R.layout.simple_list_item_1, values);
-        listView.setAdapter(adapter);
+
+
+
+
+
+      //  ArrayAdapter<String> adapter = new ArrayAdapter<String>(getActivity().getBaseContext(), android.R.layout.simple_list_item_1, values);
+      //  listView.setAdapter(adapter);
         FloatingActionButton fab = (FloatingActionButton) rootView.findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
