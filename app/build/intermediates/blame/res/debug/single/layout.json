@@ -8,16 +8,16 @@
         "source": "/home/moot/AndroidStudioProjects/Mixgredients/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/moot/AndroidStudioProjects/Mixgredients/app/build/intermediates/res/merged/debug/layout/fragment_favourite.xml",
-        "source": "/home/moot/AndroidStudioProjects/Mixgredients/app/src/main/res/layout/fragment_favourite.xml"
+        "merged": "/home/moot/AndroidStudioProjects/Mixgredients/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/moot/AndroidStudioProjects/Mixgredients/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/home/moot/AndroidStudioProjects/Mixgredients/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/moot/AndroidStudioProjects/Mixgredients/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/moot/AndroidStudioProjects/Mixgredients/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/home/moot/AndroidStudioProjects/Mixgredients/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_action_tombstone.xml"
+        "merged": "/home/moot/AndroidStudioProjects/Mixgredients/app/build/intermediates/res/merged/debug/layout/fragment_favourite.xml",
+        "source": "/home/moot/AndroidStudioProjects/Mixgredients/app/src/main/res/layout/fragment_favourite.xml"
     },
     {
         "merged": "/home/moot/AndroidStudioProjects/Mixgredients/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",

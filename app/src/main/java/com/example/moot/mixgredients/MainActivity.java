@@ -42,9 +42,7 @@ public class MainActivity extends AppCompatActivity
                         .setAction("Action", null).show();
             }
         });*/
-        TextView xmll;
-        xmll= (TextView) findViewById(R.id.msg);
-        xmll.setText("asd");
+
        /* try {
             xmll.setText( new RetrieveFeedTask().execute().get());
         } catch (InterruptedException e) {

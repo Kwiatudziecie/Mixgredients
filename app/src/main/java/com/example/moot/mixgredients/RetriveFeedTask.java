@@ -25,7 +25,10 @@ class RetrieveFeedTask extends AsyncTask<Void, Void, String> {
         // Do some validation here
 
         try {
-            URL url = new URL(Variables.API_URL  + "?q=chicken&app_id=" + Variables.API_ID + "&app_key=" + Variables.API_KEY+"&from=0&to=3&calories=gte%20591,%20lte%20722&health=alcohol-free");
+            URL url = new URL(Variables.API_URL  + "?app_id=" + Variables.API_ID + "&app_key=" + Variables.API_KEY+"&" + "q=chicken"
+                    //"r=http://www.edamam.com/ontologies/edamam.owl%23recipe_637913ec61d9da69eb451818c3293df2");
+                    //"q=chicken&from=0&to=3&calories=gte%20591,%20lte%20722&health=alcohol-free");
+            );
             HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
             try {
                 BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(urlConnection.getInputStream()));

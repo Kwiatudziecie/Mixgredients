@@ -2642,6 +2642,7 @@ containing a value of this type.
         public static final int side_nav_bar=0x7f020076;
     }
     public static final class id {
+        public static final int SCROLLER_ID=0x7f0c0081;
         public static final int about=0x7f0c00a7;
         public static final int action0=0x7f0c008e;
         public static final int action_bar=0x7f0c0060;
@@ -2672,7 +2673,6 @@ containing a value of this type.
         public static final int auto=0x7f0c0023;
         public static final int beginning=0x7f0c0036;
         public static final int bottom=0x7f0c0024;
-        public static final int button=0x7f0c0082;
         public static final int buttonPanel=0x7f0c0049;
         public static final int cancel_action=0x7f0c008f;
         public static final int center=0x7f0c0025;
@@ -2733,7 +2733,6 @@ containing a value of this type.
         public static final int middle=0x7f0c0037;
         public static final int mini=0x7f0c0035;
         public static final int mix=0x7f0c00a2;
-        public static final int msg=0x7f0c0081;
         public static final int multiply=0x7f0c001d;
         public static final int nav_view=0x7f0c0070;
         public static final int navigation_header_container=0x7f0c0079;
@@ -2779,6 +2778,7 @@ containing a value of this type.
         public static final int showHome=0x7f0c0014;
         public static final int showTitle=0x7f0c0015;
         public static final int smallLabel=0x7f0c0073;
+        public static final int smalltext=0x7f0c0082;
         public static final int snackbar_action=0x7f0c0078;
         public static final int snackbar_text=0x7f0c0077;
         public static final int snap=0x7f0c001b;
